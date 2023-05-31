@@ -8,11 +8,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="401b0f43-5f36-435e-a9c1-1168280787cc" name="Changes" comment="" />
+    <list default="true" id="401b0f43-5f36-435e-a9c1-1168280787cc" name="Changes" comment="Modify Index to change the h1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/yeco/Documents/AK/cursos/webpage/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -86,7 +92,23 @@
       <workItem from="1685550391977" duration="65000" />
       <workItem from="1685550460916" duration="23000" />
       <workItem from="1685550487599" duration="142000" />
+      <workItem from="1685550652728" duration="1520000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1685550683431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685550683431</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modify Index to change the h1">
+      <created>1685551972596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685551972596</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +117,8 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="init" />
+    <MESSAGE value="Modify Index to change the h1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify Index to change the h1" />
   </component>
 </project>
